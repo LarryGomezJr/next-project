@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  background-color: #e3e3e3;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
